@@ -1,8 +1,8 @@
-# React + Vite
+### UX Engineer Live Task
+Basic starter app for the UX Engineer Live Task.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- install dependencies with `npm install`
+- run the app with `npm run dev`
+- the live app simply renders the task data. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
